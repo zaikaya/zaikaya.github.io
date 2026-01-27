@@ -18,18 +18,26 @@
             font-size: 16px;
             display: flex;
             justify-content: center;
-            align-items: center;
+            align-items: flex-start;
+            padding-top: calc(100vh / 3);
             min-height: 100vh;
         }
         
-        h1 {
-            font-size: 2em;
-            font-weight: normal;
-            text-align: center;
+        p {
+            text-align: left;
+            line-height: 1.6;
+        }
+        
+        p + p {
+            margin-top: 0.5em;
         }
     </style>
 </head>
 <body>
-    <h1>I’m a software engineer focused on building mobile applications. This site is a snapshot of my work—projects, written notes, and published software. Thanks for stopping by!</h1>
+    <div>
+        <p>I'm a software engineer focused on building mobile applications.</p>
+        <p>This site is a snapshot of my work—projects, written notes, and published software.</p>
+        <p>Thanks for stopping by!</p>
+    </div>
 </body>
 </html>
