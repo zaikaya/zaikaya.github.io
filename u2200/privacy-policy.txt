@@ -1,0 +1,57 @@
+Privacy Policy
+
+Last updated: January 28, 2026
+
+This Privacy Policy describes how U-2200 (“the App”), developed by Prat Tana (“we,” “us,” or “our”), handles user information.
+
+U-2200 is designed for privacy-sensitive users. Protecting your privacy is a core feature of the App.
+
+1. Information We Collect
+
+We do not collect personal data.
+
+The App:
+- Does not collect personal information
+- Does not use analytics, advertising, or tracking technologies
+- Does not access the internet or transmit data off the device
+- Does not use third-party SDKs that collect data
+
+All journal entries and content are stored locally on your device only.
+
+2. Local Storage
+
+All journal data is stored exclusively on your device using a local database.
+
+We do not have access to your data, and your data is never transmitted to us or to any third party.
+
+3. Data Export
+
+The App allows you to export your journal entries (for example, as a CSV file) at your request.
+
+Exported files:
+- Are created only when you initiate an export
+- Are saved to a location you choose on your device
+- Are not accessed, transmitted, or collected by the developer
+
+Once exported, these files are outside the control of the App.
+
+4. Data Deletion
+
+Deleting the App will remove all journal data stored within the App from your device.
+
+Any files you exported outside of the App (such as CSV files) are not managed by the App and will not be deleted automatically when the App is removed.
+
+5. Children’s Privacy
+
+The App does not knowingly collect personal data from anyone, including children under the age of 13.
+
+6. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted with an updated “Last updated” date.
+
+7. Contact
+
+If you have questions about this Privacy Policy, you may contact us at:
+
+Email: support@zaikaya.com
+Website: https://zaikaya.com/U-2200
